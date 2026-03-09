@@ -14,15 +14,15 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### ESG Performance & Financial Analysis Dashboard
+Tools used: Power BI 
+Objective: Developed an interactive dashboard to analyze the correlation between ESG scores (Environmental, Social, Governance) and financial profitability across global industries.
+Key Insights: Identified that the finance and Technology sectors lead in ESG compliance while maintaining a high average profit margin of 10.9%.
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
-
+### Zara Sales Analytics 
+Tools Used: SQL, Power BI
+Objective: Analyzed retail sales data to evaluate the impact of pricing, promotions, and store placement on total sales volume.
+Key Insights: Discovered that products placed in aisles significantly outperformed those at the front-of-store or end-caps, challenging traditional placementassumptions.
 
 ## 🛠️ Skills
 
